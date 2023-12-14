@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497481005961",
+    "project_id": "library-management-syste-fa6dc",
+    "storage_bucket": "library-management-syste-fa6dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497481005961:android:f9b795084a6f29ca087f58",
+        "android_client_info": {
+          "package_name": "com.aces.ipt.project.lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLIpJdjTS_6sgKK2BY971Kf5qfXtiEQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
